@@ -1,0 +1,2 @@
+javac CeilingFan.java
+java RemoteLoader

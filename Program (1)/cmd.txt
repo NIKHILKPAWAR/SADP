@@ -1,0 +1,2 @@
+javac Weather.java
+java WeatherStation
